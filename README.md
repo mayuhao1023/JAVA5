@@ -93,7 +93,6 @@ public static StringBuffer ReadTxt(String path) {
     }
 ```
 ### 六、	实验结果
-![实验结果截图1](https://github.com/GM-01/JavaExperiment-4/blob/main/1.png)
-![实验结果截图2](https://github.com/GM-01/JavaExperiment-4/blob/main/2.png)
+![实验结果截图1](https://github.com/mayuhao1023/JAVA5/blob/main/0df6fa4b939208285c91502d6ac4cf1.png)
 ### 七、	实验体会
 #### 本次实验难度不大，主要难点在于文件的处理以及字与词的查询上，通过这次实验，对正则表达式的掌握更加全面，这次也复习了前几个实验的重点内容，复写，数组。异常处理，自定义异常，多类操作等，可以说是尽自己之所能尽可能的展示了本学期所学的全部内容。
